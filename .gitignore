@@ -1,2 +1,20 @@
 
-*.txt
+# Dependencies
+node_modules/
+
+# Build outputs
+build/
+dist/
+
+# Logs
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
